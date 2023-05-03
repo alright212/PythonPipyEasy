@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/packaging_tutorial/__init__.py
+src/packaging_tutorial/example.py
+src/packaging_tutorial/gui.py
+src/square_glkink1.egg-info/PKG-INFO
+src/square_glkink1.egg-info/SOURCES.txt
+src/square_glkink1.egg-info/dependency_links.txt
+src/square_glkink1.egg-info/top_level.txt

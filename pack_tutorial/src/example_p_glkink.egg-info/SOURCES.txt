@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/example_p_glkink.egg-info/PKG-INFO
+src/example_p_glkink.egg-info/SOURCES.txt
+src/example_p_glkink.egg-info/dependency_links.txt
+src/example_p_glkink.egg-info/top_level.txt
+src/packaging_tutorial/__init__.py
+src/packaging_tutorial/example.py
